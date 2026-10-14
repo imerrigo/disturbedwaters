@@ -16,9 +16,10 @@ permalink: /
 <a href="{{ '/research' | relative_url }}" class="chip">Nanotechnology</a>
 </div>
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
+Hello and welcome to my personal website, I’m happy to have you here!
+
+The world can definitely be a disturbing place, but that’s not what I mean with this title. I actually quite love our planet and many aspects of the world we have created for ourselves. What I mean here is that I am an ecologist interested in how disturbances (like natural disasters, land-use alterations, and climate change) impact freshwater communities; and let me tell you, there are plenty of disturbances out there…
+If you would like to learn more feel free to explore my page or reach out to me!
 
 <div class="callout callout-success" markdown="0">
 <div class="callout-title">{% include icon.html name="award" class="callout-icon" %} Nobel Prize in Physics, 1965</div>
